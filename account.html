@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Cryto Name</title>
+</head>
+<body>
+
+<div class="container">
+    <nav class="nav">
+    <img src="images/goku-dragon-ball-guru.jpg" alt="" id="profilePic">
+    <br>
+    <br>
+    <a href="profile.html">
+    <div class="home">Message Boards</div>
+    </a>
+    <br>
+    <br>
+        <a href="news.html">
+         <div class="news">News</div>
+            </a>
+    <br>
+    <br>
+            <a href="marketData.html">
+             <div class="marketData">Market Data</div>
+                </a>
+    <br>
+    <br>
+    <a href="account.html">
+        <div class="accountSettings">Account Settings</div>
+    </a>
+    <br>
+    <br>
+   
+    
+    </nav>
+
+    <div id="profileFeed">
+        <h1 id="title">Account Settings</h1>
+        <div id="accountFeed">
+        
+        </div>
+        <form action="" id="uploadPic">
+            <label for="">Upload Profile Pic</label>
+            <br>
+            <input type="file" accept="image.jpeg" name="image" id="file" placeholder="image" onchange="storePic()">
+        </form>
+        <br>
+        <br>
+        <br>
+
+
+        <button type="button" onclick="window.location.replace(`home.html`)" id="logoutBtn">LogOut</button>
+            
+    </div>
+
+ 
+</div>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<!-- <script src="account.js"></script> -->
+</body>
+</html>

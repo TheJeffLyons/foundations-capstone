@@ -1,0 +1,69 @@
+[
+  
+        {
+            "id": "1",
+            "message": "First post!",
+            "photo": "''",
+            "coin": "bitcoin",
+            "userName": "bruceWayne",
+            "proPic": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/v3nfsvd4xjvqgex8_1631982916.jpeg"
+
+        },
+
+        {
+            "id": "2",
+            "message": "got coins? I am Doge",
+            "photo": "''",
+            "coin": "doge",
+            "userName": "DogeMan",
+            "proPic": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/v3nfsvd4xjvqgex8_1631982916.jpeg"
+        },
+
+        {
+            "id": "3",
+            "message": "get this fast!",
+            "photo": "https://media.giphy.com/media/8igfrOLF6m9jv0T3W0/giphy.gif",
+            "coin": "bitcoin",
+            "userName": "The Flash",
+            "proPic": "https://www.syfy.com/sites/syfy/files/styles/amp_featured_image/public/the-flash-gold-bootsnew-suit-1080x1920.jpg?h=15c55423"
+
+        },
+        {
+            "id": "4",
+            "message": "Full speed ahead!",
+            "photo": "https://media.giphy.com/media/Qz5ITuBg5uvLy0yiRY/giphy.gif",
+            "coin": "ethereum",
+            "userName": "KingVageta",
+            "proPic": "https://wallpapercave.com/wp/wp6428726.jpg"
+
+        },
+        {
+            "id": "5",
+            "message": "I like dogs!",
+            "photo": "https://www.thesun.co.uk/wp-content/uploads/2021/05/DD-COMP-CRYPTO-CURRENCY.jpg",
+            "coin": "shiba",
+            "userName": "bruceWayne",
+            "proPic": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/v3nfsvd4xjvqgex8_1631982916.jpeg"
+
+        },
+        {
+            "id": "6",
+            "message": "Pabst blog unicorn vape bicycle rights flannel. Keffiyeh readymade next level, vegan activated charcoal neutra lumbersexual bitters squid crucifix banh mi thundercats scenester. Pickled fam meditation shaman subway tile ugh, 90's crucifix. Whatever four dollar toast vinyl tacos succulents, affogato cliche gentrify man bun irony pug. Brunch unicorn chicharrones, af salvia celiac locavore chia sriracha venmo. Gochujang hammock freegan VHS locavore, williamsburg la croix prism selfies twee irony sustainable kitsch.",
+            "photo": "''",
+            "coin": "bitcoin",
+            "userName": "bruceWayne",
+            "proPic": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/v3nfsvd4xjvqgex8_1631982916.jpeg"
+
+        },
+        {
+            "id": "7",
+            "message": "First post!",
+            "photo": "https://media.giphy.com/media/k4n9RZ6c9Gc3eOvBKc/giphy.gif",
+            "coin": "bitcoin",
+            "userName": "KingVegeta",
+            "proPic": "https://wallpapercave.com/wp/wp6428726.jpg"
+
+        }
+  
+]
+

@@ -1,0 +1,127 @@
+body {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    background-image: url(Images/photo-1451187580459-43490279c0fa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+#introTag {
+    font-size: 50px;
+}
+
+#signInIntro {
+    font-size: 30px;
+}
+
+#companyName {
+    font-size: 150px;
+}
+
+img {
+    border-radius:25px;
+    width: 65%;
+}
+
+#btn {
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    border-radius: 25px;
+}
+
+.inputBtn {
+    border-radius: 5px;
+    width: 190px;
+    height: 30px;
+}
+
+
+
+.container-1 {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box-1 {
+    flex: 1;
+    margin: auto;
+    width: 50%;
+    padding: auto;
+    text-align: right; 
+    display: flex;
+    flex-direction: column;
+    margin-top: -100px;
+   
+
+}
+
+.box-2 {
+    flex: 1;
+    margin: auto;
+    width: 50%;
+    padding: auto;
+    text-align: center;    
+}
+
+.box-3 {
+    flex: 1;
+    margin: auto;
+    width: 50%;
+    padding: auto;
+    text-align: right; 
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+#btnJoin {
+    background-color: rgb(7, 110, 228);
+    border: none;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+    padding-left: 85px;
+    padding-right: 70px;
+    border-radius: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#btnLogin {
+    height: 35px;
+    background-color: rgb(13, 177, 7);
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.user-card {
+    background-color: rgb(202, 63, 8);
+    font-size: large;
+    width: 400px;
+    margin: 15px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 25px;
+    
+  }
+
+a {
+    text-decoration: none;
+}

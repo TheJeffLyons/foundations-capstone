@@ -1,0 +1,11 @@
+[
+    {
+        "id": "1",
+        "userName": "jefflyons22",
+        "email": "myemail@gmail.com",
+        "fistName": "Jeff",
+        "lastName": "Lyons",
+        "passwordHash": "mypassword"
+    }
+
+]

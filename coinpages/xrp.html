@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/main.css">
+    <title>Cryto Name</title>
+</head>
+<body>
+
+<div class="container">
+    <nav class="nav">
+    <img src="../images/goku-dragon-ball-guru.jpg" alt="" id="profilePic">
+    <br>
+    <br>
+    <a href="/profile.html">
+    <div class="home">Message Boards</div>
+    </a>
+    <br>
+    <br>
+        <a href="/news.html">
+         <div class="news">News</div>
+            </a>
+    <br>
+    <br>
+            <a href="/marketData.html">
+             <div class="marketData">Market Data</div>
+                </a>
+    <br>
+    <br>
+    <a href="/account.html">
+     <div class="accountSettings">Account Settings</div>
+        </a>
+        <br>
+        <br>
+        
+            <br>
+            <br>
+      
+    
+    </nav>
+
+    <div id="profileFeed">
+        <h1 id="title">Make a post</h1>
+        <div id="postBorder">
+        <form action="sendPhoto()">
+            <textarea name="postBox" id="postBox" cols="30" rows="10" wrap="soft" placeholder="Type here..." maxlength="280"></textarea>
+            <button type="submit" id="btn" onclick="window.location.reload()">Post</button>
+            <button type="reset" id="btnClear">Clear</button>
+            <input type="text" id="photo" placeholder="Paste photo URL here">
+            
+            
+        </form>
+        </div>
+        <br>
+        <br>
+        <section id="postContainer"></section>
+        <br>
+        <br>
+    </div>
+    <div id="following">
+        <h2 id="postContainer2">Top 100</h2>
+    </div>
+
+  
+</div>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="/coinpages/xrp.js"></script>
+<script src="../crypto.js"></script>
+</body>
+</html>
